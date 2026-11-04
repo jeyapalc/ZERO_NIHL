@@ -145,7 +145,8 @@
     "domain": "exploitation",
     "summary": "Identify coercion and safeguard potential victims.",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_authored_observation_prompt",
@@ -165,7 +166,8 @@
     "domain": "exploitation",
     "summary": "Assess coercion without treating disclosure as culpability.",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_authored_observation_prompt",
@@ -185,7 +187,8 @@
     "domain": "exploitation",
     "summary": "Review use of intimidation to compel harmful acts.",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_authored_observation_prompt",
@@ -205,7 +208,8 @@
     "domain": "exploitation",
     "summary": "Distinguish instructions, disclosure, threats, and reporting.",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_authored_observation_prompt",
@@ -225,7 +229,8 @@
     "domain": "exploitation",
     "summary": "Review encouragement or circulation of harm for standing.",
     "source_ids": [
-      "ctc-nve"
+      "ctc-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_authored_observation_prompt",
@@ -246,7 +251,8 @@
     "summary": "Review explicit harmful intent alongside research or acquisition.",
     "source_ids": [
       "fbi-prevention",
-      "atf"
+      "atf",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -266,7 +272,8 @@
     "domain": "procurement_context",
     "summary": "Document conflicting or withheld purpose in a relevant transaction.",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -286,7 +293,8 @@
     "domain": "procurement_context",
     "summary": "Review identification concerns in context of applicable requirements.",
     "source_ids": [
-      "atf"
+      "atf",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -307,7 +315,8 @@
     "summary": "Compare observed orders with legitimate needs and prior patterns.",
     "source_ids": [
       "uk-home-office",
-      "au-security"
+      "au-security",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -328,7 +337,8 @@
     "summary": "Review unexplained delivery requests in transaction context.",
     "source_ids": [
       "uk-home-office",
-      "au-security"
+      "au-security",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -348,7 +358,8 @@
     "domain": "procurement_context",
     "summary": "Record missing inventory and corroboration separately from speculation.",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -368,7 +379,8 @@
     "domain": "explosives_context",
     "summary": "Document access concerns without confronting or investigating privately.",
     "source_ids": [
-      "atf"
+      "atf",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",
@@ -388,8 +400,7 @@
     "domain": "protective_context",
     "summary": "Record support, de-escalation, and credible alternative explanations.",
     "source_ids": [
-      "fbi-behavior",
-      "wavr-owner"
+      "fbi-behavior"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_authored_observation_prompt",

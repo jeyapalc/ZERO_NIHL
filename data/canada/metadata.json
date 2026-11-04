@@ -1,0 +1,25 @@
+{
+  "jurisdiction": "CA",
+  "checked_at": "2026-11-03",
+  "registry_role": "entity_name_reference_not_moderation_verdict",
+  "languages": {
+    "en": {
+      "records": 89,
+      "feed_updated": "2025-12-10",
+      "feed_url": "https://www.publicsafety.gc.ca/cnt/_xml/lstd-ntts-eng.xml",
+      "sha256": "65e544672ce9c5e599761dcd4c7ab1223447c1922d9972aefa5e47fc64726233"
+    },
+    "fr": {
+      "records": 89,
+      "feed_updated": "2025-12-10",
+      "feed_url": "https://www.publicsafety.gc.ca/cnt/_xml/lstd-ntts-fra.xml",
+      "sha256": "fa15d36e48068978f96ee30b23e8521378567de7105e7753ca5f8aa902296ae6"
+    }
+  },
+  "language_id_warning": "Official EN/FR feed IDs refer to different entities; IDs are language-scoped and are never joined across languages.",
+  "descriptions_republished": false,
+  "alias_policy": "Preserve official alias text without speculative splitting. Pipe/OR exports contain canonical names only.",
+  "listing_scope": "Snapshot of Public Safety Canada register, not sanctions screening or legal advice.",
+  "english_web_register_reconciled": true,
+  "english_web_register_count": 89
+}

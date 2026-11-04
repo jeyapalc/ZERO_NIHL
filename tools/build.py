@@ -50,4 +50,7 @@ def build():
     (ROOT/'CATALOG.md').write_text('\n'.join(lines)+'\n')
     print(f"Validated {len(data['terms'])} term records, {len(data['indicators'])} prompts, {len(sources)} sources")
 
-if __name__=='__main__':build()
+if __name__=='__main__':
+    build()
+    from export_review import export
+    export(ROOT)

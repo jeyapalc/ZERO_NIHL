@@ -9,7 +9,9 @@
     },
     "category": "network_reference",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-lte",
+      "ca-listing-2025"
     ],
     "scope": "nve_related",
     "evidence_basis": "source_attested_label",
@@ -17,7 +19,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "nlm",
@@ -38,7 +41,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "com",
@@ -50,7 +54,8 @@
     },
     "category": "network_reference",
     "source_ids": [
-      "ctc-nve"
+      "ctc-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "source_attested_label",
@@ -58,7 +63,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "mmc",
@@ -70,7 +76,9 @@
     },
     "category": "network_reference",
     "source_ids": [
-      "ctc-nve"
+      "ctc-nve",
+      "ca-lte",
+      "ca-listing-2025"
     ],
     "scope": "nve_related",
     "evidence_basis": "source_attested_label",
@@ -78,7 +86,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "nve",
@@ -101,7 +110,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": false
   },
   {
     "id": "soe",
@@ -115,7 +125,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "source_attested_label",
@@ -123,51 +134,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
-  },
-  {
-    "id": "trap",
-    "terms": {
-      "en": [
-        "TRAP-18",
-        "TRAP 18",
-        "Terrorist Radicalization Assessment Protocol"
-      ],
-      "de": []
-    },
-    "category": "framework_reference",
-    "source_ids": [
-      "trap-owner"
-    ],
-    "scope": "framework_only",
-    "evidence_basis": "source_attested_label",
-    "german_basis": "not_applicable",
-    "action": "human_review",
-    "reviewed_at": "2026-11-03",
-    "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
-  },
-  {
-    "id": "wavr",
-    "terms": {
-      "en": [
-        "WAVR-21",
-        "WAVR 21",
-        "Workplace Assessment of Violence Risk"
-      ],
-      "de": []
-    },
-    "category": "framework_reference",
-    "source_ids": [
-      "wavr-owner"
-    ],
-    "scope": "framework_only",
-    "evidence_basis": "source_attested_label",
-    "german_basis": "not_applicable",
-    "action": "human_review",
-    "reviewed_at": "2026-11-03",
-    "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "planning",
@@ -189,7 +157,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "preparation",
@@ -211,7 +180,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "prior-attacks",
@@ -233,7 +203,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "prior-shooters",
@@ -255,7 +226,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "mass-shootings",
@@ -277,7 +249,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "target",
@@ -299,7 +272,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "threat",
@@ -321,7 +295,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "leakage",
@@ -343,7 +318,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": false
   },
   {
     "id": "fixation",
@@ -357,7 +333,7 @@
     },
     "category": "research_reference",
     "source_ids": [
-      "trap-owner"
+      "fbi-prevention"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -365,7 +341,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": false
   },
   {
     "id": "weapons-access",
@@ -387,7 +364,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "weapons-acquisition",
@@ -409,7 +387,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "coercion",
@@ -423,7 +402,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -431,7 +411,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "sextortion",
@@ -445,7 +426,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -453,7 +435,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "doxing",
@@ -468,7 +451,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -476,7 +460,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "swatting",
@@ -490,7 +475,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -498,7 +484,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "animal",
@@ -512,7 +499,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "fbi-nve"
+      "fbi-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -520,7 +508,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "harm-footage",
@@ -534,7 +523,8 @@
     },
     "category": "exploitation",
     "source_ids": [
-      "ctc-nve"
+      "ctc-nve",
+      "ca-rcmp"
     ],
     "scope": "nve_related",
     "evidence_basis": "project_query_vocabulary",
@@ -542,7 +532,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "explosives",
@@ -556,7 +547,8 @@
     },
     "category": "explosives_context",
     "source_ids": [
-      "fbi-prevention"
+      "fbi-prevention",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -564,7 +556,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "explosive-device",
@@ -578,7 +571,8 @@
     },
     "category": "explosives_context",
     "source_ids": [
-      "atf"
+      "atf",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -586,7 +580,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "precursor",
@@ -600,7 +595,8 @@
     },
     "category": "explosives_context",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -608,7 +604,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "chemical-security",
@@ -622,7 +619,8 @@
     },
     "category": "explosives_context",
     "source_ids": [
-      "au-security"
+      "au-security",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -630,7 +628,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": false
   },
   {
     "id": "suspicious-transaction",
@@ -644,7 +643,8 @@
     },
     "category": "procurement_context",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -652,7 +652,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": false
   },
   {
     "id": "chemical-theft",
@@ -666,7 +667,8 @@
     },
     "category": "procurement_context",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -674,7 +676,8 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
   },
   {
     "id": "chemical-loss",
@@ -688,7 +691,8 @@
     },
     "category": "procurement_context",
     "source_ids": [
-      "uk-home-office"
+      "uk-home-office",
+      "ca-nrcan"
     ],
     "scope": "general_targeted_violence",
     "evidence_basis": "project_query_vocabulary",
@@ -696,6 +700,76 @@
     "action": "human_review",
     "reviewed_at": "2026-11-03",
     "status": "initial_research",
-    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred.",
+    "retrieval_enabled": true
+  },
+  {
+    "id": "cut-sign",
+    "terms": {
+      "en": [
+        "cut signs"
+      ],
+      "de": [
+        "Schnitzzeichen"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "ca-rcmp"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "retrieval_enabled": true,
+    "context_note": "Canadian safeguarding vocabulary. Ordinary fan signs and reporting have benign meanings; review coercion and victim context."
+  },
+  {
+    "id": "fan-sign",
+    "terms": {
+      "en": [
+        "fan signs"
+      ],
+      "de": [
+        "Fan-Zeichen"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "ca-rcmp"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "retrieval_enabled": true,
+    "context_note": "Canadian safeguarding vocabulary. Ordinary fan signs and reporting have benign meanings; review coercion and victim context."
+  },
+  {
+    "id": "blood-sign",
+    "terms": {
+      "en": [
+        "blood signs"
+      ],
+      "de": [
+        "Blutzeichen"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "ca-rcmp"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "retrieval_enabled": true,
+    "context_note": "Canadian safeguarding vocabulary. Ordinary fan signs and reporting have benign meanings; review coercion and victim context."
   }
 ]

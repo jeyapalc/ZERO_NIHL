@@ -9,8 +9,11 @@ class RetrievalTests(unittest.TestCase):
         self.assertEqual(scan('x764x',True),[])
         self.assertTrue(scan('764',True))
     def test_normalization(self):
-        self.assertTrue(scan('ＴＲＡＰ－１８',True))
-        self.assertTrue(scan('TRAP-\u200b18',True))
+        self.assertTrue(scan('ＣＯＭ ＮＥＴＷＯＲＫ',True))
+        self.assertTrue(scan('Co\u200bm Network',True))
+    def test_research_terms_disabled(self):
+        self.assertEqual(scan('chemical security fixation leakage',True),[])
+        self.assertTrue(scan('chemical security',True,True))
     def test_german(self):
         self.assertTrue(scan('Ein Bericht zur Anschlagsplanung.',True))
     def test_reporting_is_not_assessment(self):

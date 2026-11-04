@@ -1,10 +1,12 @@
 anschlagsplanung
 anschlagsvorbereitung
 ausgangsstoff für explosivstoffe
+blutzeichen
 chemikaliendiebstahl
 chemikaliensicherheit
 doxing
 erzwungene selbstverletzung
+fan-zeichen
 fixierung
 frühere amokläufer
 frühere attentäter
@@ -14,6 +16,7 @@ massenschiessereien
 morddrohung
 nihilistischer gewaltextremismus
 sadistische online-ausbeutung
+schnitzzeichen
 sexuelle erpressung
 sprengstoffrecherche
 sprengvorrichtung

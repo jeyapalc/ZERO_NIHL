@@ -40,22 +40,6 @@
     "evidence_access": "full_pdf; 2021 indicator supplement, not the 2025 booklet"
   },
   {
-    "id": "trap-owner",
-    "publisher": "J. Reid Meloy",
-    "title": "TRAP-18 Manual overview",
-    "url": "https://drreidmeloy.com/training/trap-18/",
-    "checked_at": "2026-11-03",
-    "evidence_access": "full_page"
-  },
-  {
-    "id": "wavr-owner",
-    "publisher": "WAVR-21 developers",
-    "title": "The WAVR-21",
-    "url": "https://wavr21.com/wavr-21/",
-    "checked_at": "2026-11-03",
-    "evidence_access": "full_page"
-  },
-  {
     "id": "atf",
     "publisher": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
     "title": "Suspicious or Dangerous Items",
@@ -86,5 +70,45 @@
     "url": "https://www.secretservice.gov/sites/default/files/2020-04/Protecting_Americas_Schools.pdf",
     "checked_at": "2026-11-03",
     "evidence_access": "search_index_excerpt from official PDF with query parameters; direct clean URL returned 403"
+  },
+  {
+    "id": "ca-lte",
+    "publisher": "Public Safety Canada",
+    "title": "Currently listed entities",
+    "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-listing-2025",
+    "publisher": "Public Safety Canada",
+    "title": "Four new entity listings, December 2025",
+    "url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-rcmp",
+    "publisher": "Royal Canadian Mounted Police",
+    "title": "Violent online groups exploiting children and youth",
+    "url": "https://rcmp.ca/en/federal-policing/national-security/violent-online-groups-exploiting-children-and-youth",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-nrcan",
+    "publisher": "Natural Resources Canada",
+    "title": "Restricted components: chemical security and seller guidance",
+    "url": "https://natural-resources.canada.ca/minerals-mining/explosives-fireworks-ammunition/restricted-components",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-csis",
+    "publisher": "Canadian Security Intelligence Service",
+    "title": "Public Report 2024: intelligence operations",
+    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2024/intelligence-operations.html",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
   }
 ]

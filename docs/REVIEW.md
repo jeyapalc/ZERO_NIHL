@@ -16,7 +16,7 @@ Relevant observations may concern an unexplained transaction purpose, inconsiste
 
 ## Response
 
-Use the forum's safeguarding and threat-response process for credible threats, coercion, and exploitation. Distinguish potential victims from people directing abuse. A credible immediate danger requires prompt attention through the appropriate local emergency process; do not wait for a keyword match, a checklist total, or a formal framework result. Do not confront a suspected offender or handle a suspected explosive item. No reports or messages are sent automatically by this project.
+Use the forum's safeguarding and threat-response process for credible threats, coercion, and exploitation. Distinguish potential victims from people directing abuse. A credible immediate danger requires prompt attention through the appropriate local emergency process; do not wait for a keyword match, a checklist total, or professional assessment. Do not confront a suspected offender or handle a suspected explosive item. No reports or messages are sent automatically by this project.
 
 ## Retrieval limits
 

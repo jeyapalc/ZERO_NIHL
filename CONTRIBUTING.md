@@ -1,6 +1,6 @@
 # Contributing
 
-Maintain `data/terms.json`, `data/indicators.json`, and `data/sources.json`. The seed script is an initial construction record; do not run it over later contributions.
+Maintain `data/terms.json`, `data/indicators.json`, and `data/sources.json`. Canonical JSON is the maintained source.
 
 Require exact primary-source links, an original concise annotation, scope, evidence basis, context limitations, and research date. Distinguish source-attested vocabulary from project retrieval phrases and translations. Keep NVE-related evidence separate from general violence-prevention evidence. Sources documenting allegations do not establish guilt or current network status.
 

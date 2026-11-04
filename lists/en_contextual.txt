@@ -3,16 +3,19 @@ access to weapons
 animal cruelty
 attack planning
 attack preparation
+blood signs
 chemical security
 chemical theft
 coerced self-harm
 com network
+cut signs
 death threat
 doxing
 doxxing
 explosive device
 explosives precursor
 explosives research
+fan signs
 fixation
 leakage
 maniac murder cult
@@ -29,11 +32,5 @@ sextortion
 suspicious transaction
 swatting
 target surveillance
-terrorist radicalization assessment protocol
-trap 18
-trap-18
 violent footage
-wavr 21
-wavr-21
 weapons acquisition
-workplace assessment of violence risk
