@@ -1,0 +1,406 @@
+[
+  {
+    "id": "research-intent",
+    "label": "Research connected to violent intent",
+    "domain": "preparation",
+    "summary": "Establish an observed link between research and intended harm.",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "attacker-emulation",
+    "label": "Past-attacker emulation",
+    "domain": "identification",
+    "summary": "Distinguish emulation from historical or journalistic research.",
+    "source_ids": [
+      "fbi-mobilization"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "preparatory-change",
+    "label": "Preparation beyond ordinary activity",
+    "domain": "preparation",
+    "summary": "Record changes indicating movement toward an attack.",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "communicated-intent",
+    "label": "Communication of intended violence",
+    "domain": "communication",
+    "summary": "Document threats or disclosures with their surrounding context.",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "targeted-attention",
+    "label": "Attention focused on a potential target",
+    "domain": "targeting",
+    "summary": "Document observed targeting activity and legitimate explanations.",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "weapon-access",
+    "label": "Access relevant to a threat",
+    "domain": "weapons_context",
+    "summary": "Establish actual access separately from claims or images.",
+    "source_ids": [
+      "usss-schools"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "weapon-acquisition",
+    "label": "Acquisition linked to planning",
+    "domain": "weapons_context",
+    "summary": "Review acquisition in relation to a documented threat.",
+    "source_ids": [
+      "usss-schools"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "harm-coercion",
+    "label": "Coercion into self-harm",
+    "domain": "exploitation",
+    "summary": "Identify coercion and safeguard potential victims.",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "sexual-extortion",
+    "label": "Sexual extortion",
+    "domain": "exploitation",
+    "summary": "Assess coercion without treating disclosure as culpability.",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "dox-threat",
+    "label": "Doxing or swatting intimidation",
+    "domain": "exploitation",
+    "summary": "Review use of intimidation to compel harmful acts.",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "animal-harm",
+    "label": "Coerced animal harm",
+    "domain": "exploitation",
+    "summary": "Distinguish instructions, disclosure, threats, and reporting.",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "harm-status",
+    "label": "Violence used for network status",
+    "domain": "exploitation",
+    "summary": "Review encouragement or circulation of harm for standing.",
+    "source_ids": [
+      "ctc-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "explosive-intent",
+    "label": "Explosives inquiry linked to harm",
+    "domain": "explosives_context",
+    "summary": "Review explicit harmful intent alongside research or acquisition.",
+    "source_ids": [
+      "fbi-prevention",
+      "atf"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "purpose-evasion",
+    "label": "Unexplained intended use",
+    "domain": "procurement_context",
+    "summary": "Document conflicting or withheld purpose in a relevant transaction.",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "id-evasion",
+    "label": "Reluctance to provide required identification",
+    "domain": "procurement_context",
+    "summary": "Review identification concerns in context of applicable requirements.",
+    "source_ids": [
+      "atf"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "quantity-anomaly",
+    "label": "Unusual purchasing pattern",
+    "domain": "procurement_context",
+    "summary": "Compare observed orders with legitimate needs and prior patterns.",
+    "source_ids": [
+      "uk-home-office",
+      "au-security"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "delivery-anomaly",
+    "label": "Unusual delivery or packaging",
+    "domain": "procurement_context",
+    "summary": "Review unexplained delivery requests in transaction context.",
+    "source_ids": [
+      "uk-home-office",
+      "au-security"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "inventory-loss",
+    "label": "Significant loss or theft",
+    "domain": "procurement_context",
+    "summary": "Record missing inventory and corroboration separately from speculation.",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "restricted-access",
+    "label": "Unauthorized access to explosives storage",
+    "domain": "explosives_context",
+    "summary": "Document access concerns without confronting or investigating privately.",
+    "source_ids": [
+      "atf"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  },
+  {
+    "id": "protective-context",
+    "label": "Evidence inconsistent with intended harm",
+    "domain": "protective_context",
+    "summary": "Record support, de-escalation, and credible alternative explanations.",
+    "source_ids": [
+      "fbi-behavior",
+      "wavr-owner"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_authored_observation_prompt",
+    "evidence_needed": [
+      "What was directly observed, by whom, and when?",
+      "What links this to intended harm, rather than a benign explanation?",
+      "What changed over time, and what evidence contradicts the concern?"
+    ],
+    "action": "human_review",
+    "automated_inference": false,
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research"
+  }
+]

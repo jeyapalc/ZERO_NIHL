@@ -1,0 +1,90 @@
+[
+  {
+    "id": "fbi-nve",
+    "publisher": "FBI Boston",
+    "title": "Nihilistic Violent Extremists Targeting Children and Vulnerable Victims Online",
+    "url": "https://www.fbi.gov/contact-us/field-offices/boston/news/fbi-boston-warns-of-nihilistic-violent-extremists-targeting-children-and-vulnerable-victims-online",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ctc-nve",
+    "publisher": "Combating Terrorism Center at West Point",
+    "title": "Remotely Coerced Violence: 764, The Com Network, and the Hybridization of Threats",
+    "url": "https://ctc.westpoint.edu/remotely-coerced-violence-764-the-com-network-and-the-hybridization-of-threats/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "fbi-prevention",
+    "publisher": "Federal Bureau of Investigation",
+    "title": "Making Prevention a Reality (2017)",
+    "url": "https://www.fbi.gov/file-repository/reports-and-publications/making-prevention-a-reality.pdf/download",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_pdf; warning behaviors and pathway discussion"
+  },
+  {
+    "id": "fbi-behavior",
+    "publisher": "Federal Bureau of Investigation",
+    "title": "Behavioral Analysis",
+    "url": "https://www.fbi.gov/how-we-investigate/behavioral-analysis",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "fbi-mobilization",
+    "publisher": "NCTC / FBI / DHS",
+    "title": "Violent Extremist Mobilization Indicators: Critical Infrastructure Sector",
+    "url": "https://www.fbi.gov/file-repository/counterterrorism/us-violent-extremism-mobilization-indicators-critical-infrastructure-sector.pdf",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_pdf; 2021 indicator supplement, not the 2025 booklet"
+  },
+  {
+    "id": "trap-owner",
+    "publisher": "J. Reid Meloy",
+    "title": "TRAP-18 Manual overview",
+    "url": "https://drreidmeloy.com/training/trap-18/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "wavr-owner",
+    "publisher": "WAVR-21 developers",
+    "title": "The WAVR-21",
+    "url": "https://wavr21.com/wavr-21/",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "atf",
+    "publisher": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "title": "Suspicious or Dangerous Items",
+    "url": "https://www.atf.gov/explosives/tools-services-explosives-industry/current-licensees/suspicious-or-dangerous-items",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "uk-home-office",
+    "publisher": "UK Home Office",
+    "title": "Supplying explosives precursors and poisons",
+    "url": "https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison",
+    "checked_at": "2026-11-03",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "au-security",
+    "publisher": "Australian National Security",
+    "title": "Industry specific advice for chemical security",
+    "url": "https://www.nationalsecurity.gov.au/protect-your-business/chemical-security/industry",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt; transaction details not exposed in full-page fetch"
+  },
+  {
+    "id": "usss-schools",
+    "publisher": "United States Secret Service / NTAC",
+    "title": "Protecting America’s Schools (2019)",
+    "url": "https://www.secretservice.gov/sites/default/files/2020-04/Protecting_Americas_Schools.pdf",
+    "checked_at": "2026-11-03",
+    "evidence_access": "search_index_excerpt from official PDF with query parameters; direct clean URL returned 403"
+  }
+]

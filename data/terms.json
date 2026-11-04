@@ -1,0 +1,701 @@
+[
+  {
+    "id": "764",
+    "terms": {
+      "en": [
+        "764"
+      ],
+      "de": []
+    },
+    "category": "network_reference",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "nlm",
+    "terms": {
+      "en": [
+        "No Lives Matter",
+        "NLM"
+      ],
+      "de": []
+    },
+    "category": "network_reference",
+    "source_ids": [
+      "ctc-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "com",
+    "terms": {
+      "en": [
+        "Com Network"
+      ],
+      "de": []
+    },
+    "category": "network_reference",
+    "source_ids": [
+      "ctc-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "mmc",
+    "terms": {
+      "en": [
+        "Maniac Murder Cult"
+      ],
+      "de": []
+    },
+    "category": "network_reference",
+    "source_ids": [
+      "ctc-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "nve",
+    "terms": {
+      "en": [
+        "nihilistic violent extremism",
+        "NVE"
+      ],
+      "de": [
+        "nihilistischer Gewaltextremismus"
+      ]
+    },
+    "category": "research_reference",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "soe",
+    "terms": {
+      "en": [
+        "sadistic online exploitation"
+      ],
+      "de": [
+        "sadistische Online-Ausbeutung"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "trap",
+    "terms": {
+      "en": [
+        "TRAP-18",
+        "TRAP 18",
+        "Terrorist Radicalization Assessment Protocol"
+      ],
+      "de": []
+    },
+    "category": "framework_reference",
+    "source_ids": [
+      "trap-owner"
+    ],
+    "scope": "framework_only",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "wavr",
+    "terms": {
+      "en": [
+        "WAVR-21",
+        "WAVR 21",
+        "Workplace Assessment of Violence Risk"
+      ],
+      "de": []
+    },
+    "category": "framework_reference",
+    "source_ids": [
+      "wavr-owner"
+    ],
+    "scope": "framework_only",
+    "evidence_basis": "source_attested_label",
+    "german_basis": "not_applicable",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "planning",
+    "terms": {
+      "en": [
+        "attack planning"
+      ],
+      "de": [
+        "Anschlagsplanung"
+      ]
+    },
+    "category": "preparation",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "preparation",
+    "terms": {
+      "en": [
+        "attack preparation"
+      ],
+      "de": [
+        "Anschlagsvorbereitung"
+      ]
+    },
+    "category": "preparation",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "prior-attacks",
+    "terms": {
+      "en": [
+        "past attackers"
+      ],
+      "de": [
+        "frühere Attentäter"
+      ]
+    },
+    "category": "prior_attacker_reference",
+    "source_ids": [
+      "fbi-mobilization"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "prior-shooters",
+    "terms": {
+      "en": [
+        "previous shooters"
+      ],
+      "de": [
+        "frühere Amokläufer"
+      ]
+    },
+    "category": "prior_attacker_reference",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "mass-shootings",
+    "terms": {
+      "en": [
+        "mass shootings"
+      ],
+      "de": [
+        "Massenschießereien"
+      ]
+    },
+    "category": "prior_attacker_reference",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "target",
+    "terms": {
+      "en": [
+        "target surveillance"
+      ],
+      "de": [
+        "Zielausspähung"
+      ]
+    },
+    "category": "targeting",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "threat",
+    "terms": {
+      "en": [
+        "death threat"
+      ],
+      "de": [
+        "Morddrohung"
+      ]
+    },
+    "category": "threat_reference",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "leakage",
+    "terms": {
+      "en": [
+        "leakage"
+      ],
+      "de": [
+        "Leakage"
+      ]
+    },
+    "category": "research_reference",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "fixation",
+    "terms": {
+      "en": [
+        "fixation"
+      ],
+      "de": [
+        "Fixierung"
+      ]
+    },
+    "category": "research_reference",
+    "source_ids": [
+      "trap-owner"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "weapons-access",
+    "terms": {
+      "en": [
+        "access to weapons"
+      ],
+      "de": [
+        "Zugang zu Waffen"
+      ]
+    },
+    "category": "weapons_context",
+    "source_ids": [
+      "usss-schools"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "weapons-acquisition",
+    "terms": {
+      "en": [
+        "weapons acquisition"
+      ],
+      "de": [
+        "Waffenbeschaffung"
+      ]
+    },
+    "category": "weapons_context",
+    "source_ids": [
+      "usss-schools"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "coercion",
+    "terms": {
+      "en": [
+        "coerced self-harm"
+      ],
+      "de": [
+        "erzwungene Selbstverletzung"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "sextortion",
+    "terms": {
+      "en": [
+        "sextortion"
+      ],
+      "de": [
+        "sexuelle Erpressung"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "doxing",
+    "terms": {
+      "en": [
+        "doxing",
+        "doxxing"
+      ],
+      "de": [
+        "Doxing"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "swatting",
+    "terms": {
+      "en": [
+        "swatting"
+      ],
+      "de": [
+        "Swatting"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "animal",
+    "terms": {
+      "en": [
+        "animal cruelty"
+      ],
+      "de": [
+        "Tierquälerei"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "fbi-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "harm-footage",
+    "terms": {
+      "en": [
+        "violent footage"
+      ],
+      "de": [
+        "Gewaltaufnahmen"
+      ]
+    },
+    "category": "exploitation",
+    "source_ids": [
+      "ctc-nve"
+    ],
+    "scope": "nve_related",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "explosives",
+    "terms": {
+      "en": [
+        "explosives research"
+      ],
+      "de": [
+        "Sprengstoffrecherche"
+      ]
+    },
+    "category": "explosives_context",
+    "source_ids": [
+      "fbi-prevention"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "explosive-device",
+    "terms": {
+      "en": [
+        "explosive device"
+      ],
+      "de": [
+        "Sprengvorrichtung"
+      ]
+    },
+    "category": "explosives_context",
+    "source_ids": [
+      "atf"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "precursor",
+    "terms": {
+      "en": [
+        "explosives precursor"
+      ],
+      "de": [
+        "Ausgangsstoff für Explosivstoffe"
+      ]
+    },
+    "category": "explosives_context",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "chemical-security",
+    "terms": {
+      "en": [
+        "chemical security"
+      ],
+      "de": [
+        "Chemikaliensicherheit"
+      ]
+    },
+    "category": "explosives_context",
+    "source_ids": [
+      "au-security"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "suspicious-transaction",
+    "terms": {
+      "en": [
+        "suspicious transaction"
+      ],
+      "de": [
+        "verdächtige Transaktion"
+      ]
+    },
+    "category": "procurement_context",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "chemical-theft",
+    "terms": {
+      "en": [
+        "chemical theft"
+      ],
+      "de": [
+        "Chemikaliendiebstahl"
+      ]
+    },
+    "category": "procurement_context",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  },
+  {
+    "id": "chemical-loss",
+    "terms": {
+      "en": [
+        "missing chemicals"
+      ],
+      "de": [
+        "vermisste Chemikalien"
+      ]
+    },
+    "category": "procurement_context",
+    "source_ids": [
+      "uk-home-office"
+    ],
+    "scope": "general_targeted_violence",
+    "evidence_basis": "project_query_vocabulary",
+    "german_basis": "project_translation_not_source_attested",
+    "action": "human_review",
+    "reviewed_at": "2026-11-03",
+    "status": "initial_research",
+    "context_note": "Literal mention only: quotation, reporting, education, prevention, victim disclosure, and benign use require review. No intent or behavior is inferred."
+  }
+]
