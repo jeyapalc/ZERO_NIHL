@@ -1,0 +1,3 @@
+ALPHA appears in this example.
+The literal string a*b appears here; axb does not count.
+An alphabet contains letters. 2018 contains a disabled number.

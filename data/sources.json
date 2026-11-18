@@ -110,5 +110,29 @@
     "url": "https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2024/intelligence-operations.html",
     "checked_at": "2026-11-03",
     "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-lte-current",
+    "publisher": "Public Safety Canada",
+    "title": "Currently listed entities: verified names and aliases",
+    "url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+    "checked_at": "2026-11-17",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-csis-2025",
+    "publisher": "CSIS",
+    "title": "Public Report 2025: Operations and analysis",
+    "url": "https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2025/operations-and-analysis.html",
+    "checked_at": "2026-11-17",
+    "evidence_access": "full_page"
+  },
+  {
+    "id": "ca-nrcan-reporting",
+    "publisher": "Natural Resources Canada",
+    "title": "Guidelines for Recognizing and Reporting Suspicious Transactions of Explosives Precursor Chemicals",
+    "url": "https://natural-resources.canada.ca/sites/nrcan/files/ERD/20220510-G20-04GuidelinesforSuspiciousTransactions-E.pdf",
+    "checked_at": "2026-11-17",
+    "evidence_access": "search_excerpt"
   }
 ]

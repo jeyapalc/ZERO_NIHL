@@ -1,5 +1,10 @@
 # ZERO_NIHL
 
+## Masterlist and user manual
+
+Start with the [cited masterlist](lists/masterlist.tsv), [one-term-per-line list](lists/masterlist.txt), and [Excel / PowerShell manual](manual/README.md). Each project has one masterlist across source languages. Canadian relevance, evidence, and context govern inclusion; this is not a translation exercise. Existing project translations remain labelled as such, not evidence of Canadian usage. The broader Canadian entity registry remains separate because not every listed entity is IMVE.
+
+
 **Sourced English/German review vocabulary and observation prompts for nihilistic violent extremism (NVE) and related targeted-violence concerns.**
 
 A companion to ZERO_NAZ. This initial collection separates NVE-related networks and exploitation from general attack preparation, prior-attacker emulation, weapons access, and suspicious explosives-related procurement. See [CATALOG.md](CATALOG.md).

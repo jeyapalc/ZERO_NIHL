@@ -1,0 +1,4 @@
+term	enabled	entry_id	source_urls	context_note
+alpha	TRUE	example-alpha	https://example.org/alpha	Synthetic example only
+a*b	TRUE	example-literal	https://example.org/literal	Literal asterisk example
+18	FALSE	example-number	https://example.org/number	Disabled number example

@@ -12,4 +12,7 @@ jobs:
           python-version: '3.12'
       - run: python tools/build.py
       - run: python -m unittest discover -s tests -v
+      - name: Verify PowerShell manual
+        shell: pwsh
+        run: ./tests/test_manual.ps1
       - run: git diff --exit-code

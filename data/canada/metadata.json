@@ -1,25 +1,25 @@
 {
   "jurisdiction": "CA",
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-17",
   "registry_role": "entity_name_reference_not_moderation_verdict",
   "languages": {
     "en": {
       "records": 89,
-      "feed_updated": "2025-12-10",
-      "feed_url": "https://www.publicsafety.gc.ca/cnt/_xml/lstd-ntts-eng.xml",
-      "sha256": "65e544672ce9c5e599761dcd4c7ab1223447c1922d9972aefa5e47fc64726233"
+      "web_url": "https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx",
+      "web_sha256": "ba0ecbb889273452c20077b2fe7c075b917d10b12d53e6c3c6fbf33f1a359250",
+      "web_register_reconciled": true,
+      "xml_feed_note": "XML feed still reports 2025-12-10; web register used instead."
     },
     "fr": {
       "records": 89,
-      "feed_updated": "2025-12-10",
-      "feed_url": "https://www.publicsafety.gc.ca/cnt/_xml/lstd-ntts-fra.xml",
-      "sha256": "fa15d36e48068978f96ee30b23e8521378567de7105e7753ca5f8aa902296ae6"
+      "web_url": "https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx",
+      "web_sha256": "5cc1bdfe749b46aa478e76e642e4d7dd8834d30f7492a29ed29020d04ec45ab4",
+      "web_register_reconciled": true,
+      "xml_feed_note": "XML feed still reports 2025-12-10; web register used instead."
     }
   },
-  "language_id_warning": "Official EN/FR feed IDs refer to different entities; IDs are language-scoped and are never joined across languages.",
+  "language_id_warning": "IDs are language-scoped; never join EN/FR records by local ID.",
   "descriptions_republished": false,
-  "alias_policy": "Preserve official alias text without speculative splitting. Pipe/OR exports contain canonical names only.",
-  "listing_scope": "Snapshot of Public Safety Canada register, not sanctions screening or legal advice.",
-  "english_web_register_reconciled": true,
-  "english_web_register_count": 89
+  "alias_policy": "Official alias text preserved unsplit; curated vocabulary may include individually verified aliases.",
+  "listing_scope": "Dated Public Safety Canada web-register snapshot; legal status must be checked at the official source."
 }

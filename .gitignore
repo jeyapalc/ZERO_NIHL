@@ -1,3 +1,19 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Local review outputs and private evidence must not be committed.
+/matches*.csv
+/example-matches.csv
+/wordlist.tsv
+/all-words.tsv
+/searchable_terms.tsv
+/case-data/
+/extractions/
+/reports/
+*.ufdr
+*.ufd
+*.e01
+*.E01
+*.ad1
+*.mfdb

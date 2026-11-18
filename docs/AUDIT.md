@@ -1,3 +1,9 @@
+# Update — 2026-11-17
+
+Both official Canadian web-register language versions were checked. Their name sets match the prior snapshot; two French raw-alias strings were corrected. Current web-source hashes and review provenance replace the older XML-only metadata. The historical audit below describes the earlier process.
+
+One cited masterlist and a runnable Excel/PowerShell manual were added per project. Coverage tests reconcile every literal vocabulary row and source URL. Builds verify byte-for-byte regeneration across hash seeds. Public-source additions and their evidence limits are recorded in canonical JSON. No claim of exhaustive terminology coverage or automatic determination of criminal intent is made.
+
 # Audit — 2026-11-03
 
 ## Corrections implemented
