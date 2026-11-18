@@ -16,7 +16,7 @@ def scan(text,include_contextual=False,include_research=False):
         return []
     text=normalize(text)
     hits=[]
-    for entry in json.loads((ROOT/'data/terms.json').read_text()):
+    for entry in json.loads((ROOT/'data/terms.json').read_text(encoding='utf-8')):
         if not entry.get('retrieval_enabled',True) and not include_research:
             continue
         matched=[]
